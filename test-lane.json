@@ -1,0 +1,15 @@
+{
+  "bootstrap_date": "2026-08-08",
+  "default_branch": "main",
+  "description": "Certify concurrent package publication, immutable checksums, and atomic tag movement.",
+  "fleet_manifest_sha256": "5d1cf8cb7af82a81660bf2fe7536759c7b15bd01bef4a4a04730095ad998d056",
+  "force_push_allowed": false,
+  "full_name": "zed-pkg-test/registry-publish-race-e2e",
+  "lane": "registry-concurrency",
+  "organization": "zed-pkg-test",
+  "repository": "registry-publish-race-e2e",
+  "schema_version": 1,
+  "semantic_conflict_resolution_required": true,
+  "tracking_issue": "DEN-3286",
+  "visibility": "public"
+}
