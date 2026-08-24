@@ -9,3 +9,8 @@ coverage.xml
 .DS_Store
 .idea/
 .vscode/
+
+# >>> ores fleet hygiene — managed block, edits below are overwritten >>>
+tmp/temp/
+tmp/worktrees/
+# <<< ores fleet hygiene <<<
